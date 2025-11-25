@@ -40,7 +40,8 @@
 Проверяем: 
 <img width="2880" height="1620" alt="image" src="6.png" />
 
-<img width="2880" height="1620" alt="image" src="7.png" /># IBiZI-kr2
+<img width="2880" height="1620" alt="image" src="7.png" />
+
 
 
 

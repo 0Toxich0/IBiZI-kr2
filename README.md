@@ -33,6 +33,7 @@
 * Role: admin 
 * IsActive: true 
 * CreatedAt/updatedAt: дата создания/обновления аккаунта.
+
 Пароль (MD5 хэш): 0192023a7bbd73250516f069df18b500. Атака на него даже с помощью онлайн крэкера позволяет узнать строку пароля - admin123:
 <img width="2556" height="1346" alt="image" src="5.png" />
 
@@ -40,5 +41,6 @@
 <img width="2880" height="1620" alt="image" src="6.png" />
 
 <img width="2880" height="1620" alt="image" src="7.png" /># IBiZI-kr2
+
 
 
